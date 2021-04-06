@@ -1,8 +1,13 @@
 # This is a file in my third branch Demo Test Number 2 without a pull request
 
 # Below are simple python functions
-
+# Example 1
 def say_hi(name, percentage):
   print("Hello " + name + "your computer is " + percentage + "% charged!")
   
 say_hi("Malory", "69")
+
+# Example 2
+def cube(num):
+  return num*num*num
+print(cube(3))
