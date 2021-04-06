@@ -1,0 +1,8 @@
+# This is a file in my third branch Demo Test Number 2 without a pull request
+
+# Below are simple python functions
+
+def say_hi(name, percentage):
+  print("Hello " + name + "your computer is " + percentage + "% charged!")
+  
+say_hi("Malory", "69")
